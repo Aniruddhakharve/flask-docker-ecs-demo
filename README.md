@@ -57,6 +57,31 @@ flask-docker-ecs-demo
 
 ---
 
+# 🚀 Quick Start
+
+You can run the application locally without Docker.
+
+## Run Locally
+
+Install dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+Start the Flask application:
+
+```
+python run.py
+```
+
+The application will start on:
+
+```
+http://localhost:80
+```
+
+
 # 🐳 Docker Implementation
 
 This project contains **two Docker build approaches**.
