@@ -81,6 +81,7 @@ The application will start on:
 http://localhost:80
 ```
 
+---
 
 # 🐳 Docker Implementation
 
